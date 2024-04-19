@@ -50,9 +50,12 @@
 
 
 <h2 align ="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'www.linkedin.com/in/cristobal-donoso-999110229'> <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-<a href = 'https://github.com/Cris-Daiki'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
+<div>
+  <a href="https://www.linkedin.com/in/cristobal-donoso-999110229" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href = 'https://github.com/Cris-Daiki'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+</div>
 <br>
 <br>
   <br>
